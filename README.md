@@ -5,6 +5,7 @@ This is a project, named “Hotel Management System”. This project is
 created by using :
 1. Python Programming Language, and
 2. SQL(Structured Query Language)
+
 In this project there are 1000+ lines of python code and 70+ lines of 
 SQL Script, in which i used simple python programming.
 This program is created for managing the Hotel tasks like:-
