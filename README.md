@@ -21,14 +21,17 @@ This program is created for managing the Hotel tasks like:-
 • Getting report of Rooms
 • Getting report of Bookings
 • Getting report of collections, etc
-##Requirements for using it 
-####Software Requirements : 
+
+## Requirements for using it 
+###### Software Requirements : 
 • Python IDLE or any other software
 • MySQL Command line or MySQL Workbench or any other software (but you can ignore it,as i have attached an another file in context of this)
-####Libraries Required : 
+
+###### Libraries Required : 
 • MySQL Connector Python (to be installed if your PC doesn’t have)
 • Datetime
-####Skills Required :
+
+###### Skills Required :
 • You should have knowledge of Python Programming.
 • You should have knowledge of SQL.
 • You should have knowledge of : How to connect a SQL 
